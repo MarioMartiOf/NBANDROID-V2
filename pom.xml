@@ -119,7 +119,7 @@
                 </plugins>
             </build>
             <properties>
-                <version.nb>RELEASE100</version.nb>
+                <version.nb>RELEASE111</version.nb>
                 <asm.nb>asm-all-5.0.1</asm.nb>
                 <!--<nb.impl>incubator-netbeans-release-380-on-20181217</nb.impl>-->
                 <nb.impl>20181225-62d11a22fd18</nb.impl>
